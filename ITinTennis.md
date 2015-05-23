@@ -235,5 +235,7 @@ template: inverse
 
 template: inverse
 
+background-image: url('./image/gameset.jpg')
+
 # GAME SET
 
