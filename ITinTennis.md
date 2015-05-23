@@ -13,11 +13,14 @@ background-image: url('./image/tennis-ball.png')
 
 ---
 
+layout: false
+class: right, middle
+
+background-image: url('./image/profile.jpg')
+
 ## Presenter Profile
 
 ---
-
-layout: false
 
 .left-column[
   ## Profile
@@ -33,6 +36,7 @@ layout: false
   - 大学で部活を続けるレベルでは無かったのでサークルにて細々と活動
    - （同志社は一昨年全国３位です）
   - グランドスラムは欠かさず観ています
+  - 京都で行われるプロの国際大会で広報してます 
 ]
 
 ---
@@ -70,6 +74,12 @@ template: inverse
 # 最近のテニスって
 
 # すっごいハイテク
+
+---
+
+template: inverse
+
+# 15 - 0
 
 ---
 
@@ -113,6 +123,12 @@ template: inverse
 
 ---
 
+template: inverse
+
+# 30 - 0
+
+---
+
 background-image: url(./image/challenge.jpg)
 
 ---
@@ -153,6 +169,12 @@ template: inverse
 ![Placement](./image/placement.png)
 
 ### どのコースに打ち分けているかを表示
+
+---
+
+template: inverse
+
+# 40 - 0
 
 ---
 
@@ -209,5 +231,9 @@ template: inverse
   - 自分の身近なものとITを組み合わせたらどうなるか、面白いアイデアは無いか考えてみよう
 ]
 
+---
 
+template: inverse
+
+# GAME SET
 
